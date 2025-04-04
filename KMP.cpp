@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cstring>
 using namespace std;
 const int N = 1e5+10, M = 1e6+10;
 int n,m;
